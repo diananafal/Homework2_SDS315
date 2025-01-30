@@ -17,7 +17,7 @@ knitr::opts_chunk$set(fig.height=5, fig.width=6, warning=FALSE, tidy=TRUE, tidy.
 ```
 
 
-View the full R code on [GitHub](https://github.com/diananafal/Homework2_SDS315.git).
+View the full R code on [GitHub](https://github.com/diananafal/Homework2_SDS315/blob/main/Homework2_315.Rmd).
 
 
 ```{r echo=FALSE}
